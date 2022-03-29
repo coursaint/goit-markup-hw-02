@@ -110,8 +110,6 @@ body {
   line-height: 1.667;
   text-align: center;
   letter-spacing: 0.03em;
-
-  color: #212121;
 }
 .person-name {
   font-weight: 500;
@@ -119,7 +117,6 @@ body {
   line-height: 118%;
   /* text-align: center; */
   letter-spacing: 0.03em;
-  color: #212121;
 }
 .person-job {
   font-style: normal;
@@ -198,7 +195,6 @@ body {
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
-  color: #212121;
 }
 .project-type {
   font-style: normal;
