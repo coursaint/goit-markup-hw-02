@@ -77,7 +77,6 @@ body {
   background-color: #ffffff;
 }
 .title-solution {
-  font-style: normal;
   font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
@@ -87,7 +86,6 @@ body {
   color: #ffffff;
 }
 .article-title {
-  font-style: normal;
   font-weight: 700;
   font-size: 14px;
   line-height: 1.143;
@@ -95,7 +93,6 @@ body {
   text-transform: uppercase;
 }
 .article-text {
-  font-style: normal;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -103,7 +100,6 @@ body {
   color: #757575;
 }
 .headline {
-  font-style: normal;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.667;
@@ -118,7 +114,6 @@ body {
   letter-spacing: 0.03em;
 }
 .person-job {
-  font-style: normal;
   font-size: 16px;
   line-height: 118%;
   /* text-align: center; */
@@ -189,14 +184,12 @@ body {
   color: #ffffff;
 }
 .project-name {
-  font-style: normal;
   font-weight: 700;
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
 }
 .project-type {
-  font-style: normal;
   font-size: 16px;
   line-height: 1.888;
   letter-spacing: 0.03em;
